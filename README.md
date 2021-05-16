@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**jomiduto/jomiduto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi, Soy @jomiduto 👋
-
+### Hi, Soy @jomiduto 👋
 Soy Desarrollador Web (Carita). Trabajo como Backend Developer y estoy estudiando para fortalecer mis conocimientos y ser un excelente Data Science :muscle:
 
 Más sobre mi...
@@ -19,6 +13,9 @@ Tecnologías
 Entre mis hobbies se encuentran: Realizar retos de programación, jugar y ver fútbol, viajar, dibujar con CSS, leer y bailar
 
 Hecho con el :heart: por @jomiduto
+
+<!--
+**jomiduto/jomiduto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
 Here are some ideas to get you started:
