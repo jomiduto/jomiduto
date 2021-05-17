@@ -1,5 +1,3 @@
-## Hi, Soy @jomiduto 👋
-
 <p align="center">
 <a href="https://www.linkedin.com/in/miguel-duenas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/MigueTorres97"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -7,13 +5,16 @@
 <a href="mailto:jomiguel097@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+## Hi, Soy @jomiduto 👋
+
 Soy Desarrollador Web (Carita). Trabajo como Backend Developer y estoy estudiando para fortalecer mis conocimientos y ser un excelente Data Science :muscle:
 
-## Más sobre mi... !
+- 🔭 I’m currently working on Santillana Editorial Group 
+- 🌱 I’m currently learning to become a better developer and data scientist
+- 🤔 I’m looking for help with productivity and distractions
+- 💬 Ask me about web development, programming logic, PHP, Javascript...
+- ⚡ Fun fact: gamer, reader, soccer player in FIFA, I like to play chess. I am in constant Elearning.
 
-- (Emoji) Actualmente trabajo con PHP, Javascript, Python, VueJs, React, etc.
-- Big Data con IBM InfoSphere.
-- 🌱 Estoy aprendiendo Power BI y R.
 
 ## Lenguajes y Herramientas
 
