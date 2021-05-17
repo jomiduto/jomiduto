@@ -1,16 +1,19 @@
 ### Hi, Soy @jomiduto 👋
+------------
 
 Soy Desarrollador Web (Carita). Trabajo como Backend Developer y estoy estudiando para fortalecer mis conocimientos y ser un excelente Data Science :muscle:
 
-Más sobre mi...
+### Más sobre mi... ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&theme=tokyonight)
+------------
 - (Emoji) Actualmente trabajo con PHP, Javascript, Python, VueJs, React, etc.
 - Big Data con IBM InfoSphere.
 - 🌱 Estoy aprendiendo Power BI y R.
 
-### Tecnologías
-![image]({https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white})
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomiduto&layout=compact&theme=tokyonight)
+### Lenguajes y Herramientas
+------------
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" style="#E34F26"/>
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomiduto&layout=compact&theme=tokyonight) -->
 
 
 
