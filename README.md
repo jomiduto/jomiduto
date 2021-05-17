@@ -6,8 +6,9 @@ Más sobre mi...
 - (Emoji) Actualmente trabajo con PHP, Javascript, Python, VueJs, React, etc.
 - Big Data con IBM InfoSphere.
 - 🌱 Estoy aprendiendo Power BI y R.
-<hr style="border:5px;">
+
 ### Tecnologías
+![image]({https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white})
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomiduto&layout=compact&theme=tokyonight)
 
