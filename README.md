@@ -37,13 +37,13 @@ I want to strengthen my knowledge in web development and become an excellent dat
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomiduto&layout=compact&theme=tokyonight) -->
+
 <br>
 
 ## :bar_chart: My Github Public Stats
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&theme=tokyonight&witdh=100)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&theme=dark&show_icons=true)
 
 Made with :heart: by @jomiduto
 
@@ -52,6 +52,8 @@ Made with :heart: by @jomiduto
 
 <!--
 https://github.com/anuraghazra/github-readme-stats - Stats
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#tool - Emojis
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md - Temas
 **jomiduto/jomiduto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
