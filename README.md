@@ -7,7 +7,8 @@
 
 ## Hi, I’m @jomiduto 👋
 
-Soy Desarrollador Web (Carita). Trabajo como Backend Developer y estoy estudiando para fortalecer mis conocimientos y ser un excelente Data Science :muscle:
+Welcome to my Github profile. I am a Web Developer :man_technologist:, I specialize in Backend Languages, but I have knowledge in Frontend and UX. I have collaborated in the development of multiple applications, from the gathering of requirements to their transition to production.
+I want to strengthen my knowledge in web development and become an excellent data scientist.
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&theme=tokyonight)
@@ -16,7 +17,7 @@ Soy Desarrollador Web (Carita). Trabajo como Backend Developer y estoy estudiand
 - 🤔 I’m looking for help with productivity and distractions
 - 💬 Ask me about web development, programming logic, PHP, Javascript...
 - 📫 How to reach me: jomiguel097@gmail.com
-- ⚡ Fun fact: gamer, reader, soccer player in FIFA, I like to play chess. I am in constant Elearning.
+- ⚡ Fun fact: gamer, reader, soccer player in FIFA, I like to play chess. I’m in constant Elearning.
 
 ## Languages and Tools
 
@@ -34,6 +35,8 @@ Soy Desarrollador Web (Carita). Trabajo como Backend Developer y estoy estudiand
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomiduto&layout=compact&theme=tokyonight) -->
+
+
 
 
 Made with :heart: by @jomiduto
