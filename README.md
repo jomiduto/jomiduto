@@ -10,7 +10,7 @@ Más sobre mi...
 Tecnologías
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomiduto&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomiduto&layout=compact&theme=tokyonight)
 
 
 
