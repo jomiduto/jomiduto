@@ -9,18 +9,16 @@
 
 Soy Desarrollador Web (Carita). Trabajo como Backend Developer y estoy estudiando para fortalecer mis conocimientos y ser un excelente Data Science :muscle:
 
-<div width="50%">
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&theme=tokyonight)
-</div>
-<div width="50%">
 - 🔭 I’m currently working on Santillana Editorial Group 
 - 🌱 I’m currently learning to become a better developer and data scientist
 - 🤔 I’m looking for help with productivity and distractions
 - 💬 Ask me about web development, programming logic, PHP, Javascript...
+- 📫 How to reach me: jomiguel097@gmail.com
 - ⚡ Fun fact: gamer, reader, soccer player in FIFA, I like to play chess. I am in constant Elearning.
-</div>
 
-## Lenguajes y Herramientas
+## Languages and Tools
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -38,7 +36,7 @@ Soy Desarrollador Web (Carita). Trabajo como Backend Developer y estoy estudiand
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomiduto&layout=compact&theme=tokyonight) -->
 
 
-Hecho con el :heart: por @jomiduto
+Made with :heart: by @jomiduto
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${jomiduto})
 
