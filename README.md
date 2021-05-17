@@ -42,7 +42,8 @@ I want to strengthen my knowledge in web development and become an excellent dat
 ## :bar_chart: My Github Public Stats
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jduenas&theme=dark&show_icons=true&hide=prs,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&theme=dark&show_icons=true&hide=prs)&nbsp;&nbps;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomiduto&layout=compact&theme=dark)
 
 Made with :heart: by @jomiduto
 
