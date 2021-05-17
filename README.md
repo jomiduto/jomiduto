@@ -9,7 +9,7 @@ Más sobre mi...
 
 Tecnologías
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&theme=tokyonight)
 
 
 Entre mis hobbies se encuentran: Realizar retos de programación, jugar y ver fútbol, viajar, dibujar con CSS, leer y bailar
