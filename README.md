@@ -1,5 +1,5 @@
 ### Hi, Soy @jomiduto 👋
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 Soy Desarrollador Web (Carita). Trabajo como Backend Developer y estoy estudiando para fortalecer mis conocimientos y ser un excelente Data Science :muscle:
 
 Más sobre mi...
@@ -8,6 +8,7 @@ Más sobre mi...
 - 🌱 Estoy aprendiendo Power BI y R.
 
 Tecnologías
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
