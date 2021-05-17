@@ -7,7 +7,7 @@
 <a href="https://github.com/jomiduto"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:jomiguel097@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
+<br>
 
 Welcome to my Github profile. I am a Web Developer :man_technologist:, I specialize in Backend Languages, but I have knowledge in Frontend and UX. I have collaborated in the development of multiple applications, from the gathering of requirements to their transition to production.
 I want to strengthen my knowledge in web development and become an excellent data scientist. :1st_place_medal:	
@@ -19,9 +19,10 @@ I want to strengthen my knowledge in web development and become an excellent dat
 - 💬 Ask me about web development, programming logic, PHP, Javascript...
 - 📫 How to reach me: jomiguel097@gmail.com
 - ⚡ Fun fact: gamer, reader, soccer player in FIFA, I like to play chess. I’m in constant Elearning.
-
+<br>
 
 ## :gear: Languages and Tools
+<br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -37,11 +38,12 @@ I want to strengthen my knowledge in web development and become an excellent dat
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomiduto&layout=compact&theme=tokyonight) -->
+<br>
 
 ## My Github Public Stats
-<p align="center">
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&theme=tokyonight)
-</p>
 
 Made with :heart: by @jomiduto
 
