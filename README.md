@@ -36,14 +36,13 @@ I want to strengthen my knowledge in web development and become an excellent dat
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<!--
 
 <br>
 
 ## :bar_chart: My Github Public Stats
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jduenas&theme=dark&show_icons=true&hide=prs,contribs)
 
 Made with :heart: by @jomiduto
 
