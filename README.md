@@ -1,3 +1,6 @@
+## Hi, I’m @jomiduto 👋
+<br>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/miguel-duenas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/MigueTorres97"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -5,10 +8,9 @@
 <a href="mailto:jomiguel097@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-## Hi, I’m @jomiduto 👋
 
 Welcome to my Github profile. I am a Web Developer :man_technologist:, I specialize in Backend Languages, but I have knowledge in Frontend and UX. I have collaborated in the development of multiple applications, from the gathering of requirements to their transition to production.
-I want to strengthen my knowledge in web development and become an excellent data scientist.
+I want to strengthen my knowledge in web development and become an excellent data scientist. :1st_place_medal:	
 
 
 - 🔭 I’m currently working on Santillana Editorial Group 
@@ -17,6 +19,7 @@ I want to strengthen my knowledge in web development and become an excellent dat
 - 💬 Ask me about web development, programming logic, PHP, Javascript...
 - 📫 How to reach me: jomiguel097@gmail.com
 - ⚡ Fun fact: gamer, reader, soccer player in FIFA, I like to play chess. I’m in constant Elearning.
+
 
 ## Languages and Tools
 
@@ -36,9 +39,9 @@ I want to strengthen my knowledge in web development and become an excellent dat
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomiduto&layout=compact&theme=tokyonight) -->
 
 ## My Github Public Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomiduto&layout=compact&theme=tokyonight)
-
+<p align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&theme=tokyonight)
+</p>
 
 Made with :heart: by @jomiduto
 
