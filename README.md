@@ -44,6 +44,7 @@ I want to strengthen my knowledge in web development and become an excellent dat
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&theme=dark&show_icons=true&hide=prs)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomiduto&layout=compact&theme=dark)
 
+<br>
 Made with :heart: by @jomiduto
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${jomiduto})
