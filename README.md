@@ -7,7 +7,7 @@ Más sobre mi...
 - Big Data con IBM InfoSphere.
 - 🌱 Estoy aprendiendo Power BI y R.
 
-Tecnologías
+### Tecnologías
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomiduto&layout=compact&theme=tokyonight)
 
