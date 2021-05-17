@@ -1,5 +1,5 @@
-### Hi, Soy @jomiduto 👋
-## _Backend Developer Jr._
+## Hi, Soy @jomiduto 👋
+### _Backend Developer Jr._
 
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
