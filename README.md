@@ -1,15 +1,18 @@
 ### Hi, Soy @jomiduto 👋
+## _Backend Developer Jr._
+--------
+<a href="><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 Soy Desarrollador Web (Carita). Trabajo como Backend Developer y estoy estudiando para fortalecer mis conocimientos y ser un excelente Data Science :muscle:
 
-### Más sobre mi... !
+## Más sobre mi... !
 
 - (Emoji) Actualmente trabajo con PHP, Javascript, Python, VueJs, React, etc.
 - Big Data con IBM InfoSphere.
 - 🌱 Estoy aprendiendo Power BI y R.
 
-### Lenguajes y Herramientas
+## Lenguajes y Herramientas
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
