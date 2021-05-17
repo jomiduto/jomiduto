@@ -8,7 +8,7 @@ Más sobre mi...
 - 🌱 Estoy aprendiendo Power BI y R.
 
 Tecnologías
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 Entre mis hobbies se encuentran: Realizar retos de programación, jugar y ver fútbol, viajar, dibujar con CSS, leer y bailar
