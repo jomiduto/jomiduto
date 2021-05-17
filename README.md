@@ -1,5 +1,4 @@
 ### Hi, Soy @jomiduto 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${jomiduto})
 
 Soy Desarrollador Web (Carita). Trabajo como Backend Developer y estoy estudiando para fortalecer mis conocimientos y ser un excelente Data Science :muscle:
 
@@ -10,15 +9,18 @@ Más sobre mi...
 
 Tecnologías
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&theme=dracula)
 
 
 Entre mis hobbies se encuentran: Realizar retos de programación, jugar y ver fútbol, viajar, dibujar con CSS, leer y bailar
 
 Hecho con el :heart: por @jomiduto
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${jomiduto})
+
 
 <!--
+https://github.com/anuraghazra/github-readme-stats - Stats
 **jomiduto/jomiduto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
