@@ -1,5 +1,6 @@
 ### Hi, Soy @jomiduto 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${jomiduto})
+
 Soy Desarrollador Web (Carita). Trabajo como Backend Developer y estoy estudiando para fortalecer mis conocimientos y ser un excelente Data Science :muscle:
 
 Más sobre mi...
