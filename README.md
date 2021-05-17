@@ -5,16 +5,20 @@
 <a href="mailto:jomiguel097@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-## Hi, Soy @jomiduto 👋
+## Hi, I’m @jomiduto 👋
 
 Soy Desarrollador Web (Carita). Trabajo como Backend Developer y estoy estudiando para fortalecer mis conocimientos y ser un excelente Data Science :muscle:
 
+<div width="50%">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&theme=tokyonight)
+</div>
+<div width="50%">
 - 🔭 I’m currently working on Santillana Editorial Group 
 - 🌱 I’m currently learning to become a better developer and data scientist
 - 🤔 I’m looking for help with productivity and distractions
 - 💬 Ask me about web development, programming logic, PHP, Javascript...
 - ⚡ Fun fact: gamer, reader, soccer player in FIFA, I like to play chess. I am in constant Elearning.
-
+</div>
 
 ## Lenguajes y Herramientas
 
@@ -33,9 +37,6 @@ Soy Desarrollador Web (Carita). Trabajo como Backend Developer y estoy estudiand
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomiduto&layout=compact&theme=tokyonight) -->
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&theme=tokyonight)
 
 Hecho con el :heart: por @jomiduto
 
