@@ -21,7 +21,7 @@ I want to strengthen my knowledge in web development and become an excellent dat
 - ⚡ Fun fact: gamer, reader, soccer player in FIFA, I like to play chess. I’m in constant Elearning.
 
 
-## Languages and Tools
+## :gear: Languages and Tools
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
