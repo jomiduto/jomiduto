@@ -40,10 +40,10 @@ I want to strengthen my knowledge in web development and become an excellent dat
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomiduto&layout=compact&theme=tokyonight) -->
 <br>
 
-## My Github Public Stats
+## :bar_chart: My Github Public Stats
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomiduto&show_icons=true&theme=tokyonight&witdh=100)
 
 Made with :heart: by @jomiduto
 
