@@ -9,9 +9,8 @@
 </p>
 <br>
 
-Welcome to my Github profile. I am a Web Developer :man_technologist:, I specialize in Backend Languages, but I have knowledge in Frontend and UX. I have collaborated in the development of multiple applications, from the gathering of requirements to their transition to production.
-I want to strengthen my knowledge in web development and become an excellent data scientist. :1st_place_medal:	
-
+Welcome to my Github profile. I am a Web Developer :man_technologist:, I specialize in Backend and I have knowledge in Frontend and UX. I have collaborated in the development of multiple applications, from the gathering of requirements to their transition to production. I want to strengthen my knowledge in web development and become an excellent data scientist. :1st_place_medal:
+<br><br>
 
 - 🔭 I’m currently working on Santillana Editorial Group 
 - 🌱 I’m currently learning to become a better developer and data scientist
