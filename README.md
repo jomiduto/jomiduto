@@ -15,7 +15,7 @@ Welcome to my Github profile. I am a Web Developer :man_technologist:, I special
 - 🔭 I’m currently working on Santillana Editorial Group 
 - 🌱 I’m currently learning to become a better developer and data scientist
 - 🤔 I’m looking for help with productivity and distractions
-- 💬 Ask me about web development, programming logic, PHP, Javascript...
+- 💬 Ask me about web development, programming logic, PHP, Javascript, Python...
 - 📫 How to reach me: jomiguel097@gmail.com
 - ⚡ Fun fact: gamer, reader, soccer player in FIFA, I like to play chess. I’m in constant Elearning.
 <br>
